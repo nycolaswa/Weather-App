@@ -164,7 +164,7 @@ class ViewController: UIViewController {
     }()
     
     private let service = Service()
-    private var city = City(lat: "-23.6814346", lon: "-46.9249599", name: "São Paulo")
+    private var city = City(lat: "-16.140636", lon: "-50.8825872", name: "Bacilândia")
     private var forecastResponse: ForecastResponse?
 
     override func viewDidLoad() {
